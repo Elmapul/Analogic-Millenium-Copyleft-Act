@@ -1,4 +1,4 @@
-# Analogic-Millenium-Copyleft-Act (version 1.0)
+# Analogic-Millenium-Copyleft-Act (version 1.1)
 An licence to deal with companies that dont respect your rights.
 
 # Licence:
@@ -18,3 +18,5 @@ There have been a lot of cases where an so called "Ai", created some content, th
 If an company dont want to risk lose their rights, they can simply respect this licence.
 
 Btw: check with your lawyer if an licence like that may apply to your country.
+
+You can apply this licence on any software by embeding the licenced quoted above, any image, music or video by embeding to the description, or embeding the logo to the image/video itself (the logo will still be done in the future, once its done embeding it to any work will imply its using that licence.)
