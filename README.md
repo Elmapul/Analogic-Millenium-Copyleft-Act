@@ -2,7 +2,7 @@
 An licence to deal with companies that dont respect your rights.
 
 # Licence:
-This licence apply to code and assets in general including pictures , drawings music, and any other form of human expression, aka art.
+This licence apply to code and assets in general including pictures , drawings, music, and any other form of human expression, aka art.
 when an piece of code or media asset is licenced under that licence, the owner of the licence grants the use of the same to train AI, under the single following condition:
 you must give up on your rights to any copyrights you own, any patent and any trademarks.
 
